@@ -37,13 +37,11 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    // Component.Explorer(),
+    Component.Links(),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(
-      Component.RecentNotes({ limit: 5, title: "recently", linkToMore: false, showTags: true })
-    ),
     Component.Backlinks(),
   ],
 }
@@ -65,5 +63,9 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(
+      Component.RecentNotes({ limit: 5, title: "recently", linkToMore: false, showTags: true })
+    ),    
+  ],
 }

@@ -11,11 +11,11 @@ as the every girl puts it:
 
 the goal is to make truly satisfying choices, and make the decision process easier by having a set of simple, actionable, healthy dopamine boosts to choose from.
 
-**appetizers** are opportunities for quicker activities that can help prepare me, either to start or continue working or even just wake up in the morning.  Usually 15 minutes or less.
-**entrees** are more time consuming activities, but often give a bigger reward.  Usually an hour or more.
-**sides** are complimentary activities that accompany a low reward task that must be completed.  they are often light and continue for periods of time
-**desserts** are the "sweet treat" of dopamine, activities with a shorter lasting boost.  they are better in moderation, and after main tasks have been completed.  that being said, dessert is my favorite meal of the day.
-**specials** are activities that give big boosts of lasting dopamine, but can only be done occasionally for some reason and require planning.
+- **appetizers** are opportunities for quicker activities that can help prepare me, either to start or continue working or even just wake up in the morning.  Usually 15 minutes or less.
+- **entrees** are more time consuming activities, but often give a bigger reward.  Usually an hour or more.
+- **sides** are complimentary activities that accompany a low reward task that must be completed.  they are often light and continue for periods of time
+- **desserts** are the "sweet treat" of dopamine, activities with a shorter lasting boost.  they are better in moderation, and after main tasks have been completed.  that being said, dessert is my favorite meal of the day.
+- **specials** are activities that give big boosts of lasting dopamine, but can only be done occasionally for some reason and require planning.
 
 
 See also: [[my dopamine menu]]

@@ -3,6 +3,7 @@ title: my dopamine menu
 created: 2025-04-06
 publish: true
 ---
+a dopamine menu is a place you can turn to when you're looking for an extra little boost of enjoyment, but want to stuck to fulfilling task vs the dreaded *doom scroll*.  for more info, see my note [[creating a dopamine menu]]
 ## appetizers
 - a quick meditation
 - turn on music and dance
