@@ -1,3 +1,6 @@
+# sklique.xyz
+This website is a place for me to host personal thoughts, and also dive into some web design!  the site is created with quartz v4 which allows me to utilize files that i create and edit in obsidian.
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
