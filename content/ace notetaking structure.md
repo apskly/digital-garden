@@ -1,7 +1,7 @@
 ---
 title: notes on "ACE" structure
 created: 2025-03-23
-publish: true
+publish: false
 tags:
   - learning/notetaking
 ---

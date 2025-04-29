@@ -9,7 +9,7 @@ basic to digital gardening is a 3 tier system, indicating the steps from ideas f
 - 🌿 _Budding_ for work I’ve cleaned up and clarified
 - 🌳 _Evergreen_ for work that is reasonably complete
 
-The goal of this project for me is not as heavy on publishing any work, but instead learning and connecting my ideas.   I will be utilizing the following system:
+The goal of this project for me is not as heavy on publishing any work, but instead learning and connecting my ideas.   I will be utilizing the following (still untitled) system:
 1. rough early ideas
 2. connected ideas, still developing
 3. "finished" works
