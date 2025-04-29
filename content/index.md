@@ -14,4 +14,4 @@ xoxo, al
 ---
 here are some interesting notes to start exploring!
 
-[[creating a dopamine menu]], [[thoughtful computing]]
+[[why sklique?]], [[creating a dopamine menu]], [[thoughtful computing]]
