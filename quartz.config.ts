@@ -38,15 +38,15 @@ const config: QuartzConfig = {
           textHighlight: "#ffa6c1",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#121c2b",             // dark bluish-gray background
+          lightgray: "#2a3d55",         // soft border, low contrast
+          gray: "#3c5b78",              // stronger border / graph link
+          darkgray: "#b0cbe3",          // body text, light on dark
+          dark: "#ff79a8",              // header text and icons (pink tone)
+          secondary: "#4aa8ff",         // link color, current graph node (vivid blue)
+          tertiary: "#74bfff",          // hover and visited states (soft blue)
+          highlight: "rgba(255, 182, 210, 0.1)", // internal link / code highlight bg
+          textHighlight: "#ffd3e4",     // markdown highlight bg (light pink)
         },
       },
     },
