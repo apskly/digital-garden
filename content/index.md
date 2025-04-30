@@ -11,6 +11,10 @@ i hope you will stick around for a bit, click and see what i have collected, and
 
 xoxo, al
 
+**bold**
+==highlight==
+_italics_
+
 ---
 here are some interesting notes to start exploring!
 
