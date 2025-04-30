@@ -16,13 +16,14 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "sklique.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Source Serif Pro",
-        body: "Source Sans Pro",
+        title: "Libre Franklin",
+        header: "Prompt",
+        body: "Slabo",
         code: "IBM Plex Mono",
       },
       colors: {
