@@ -1,7 +1,7 @@
 ---
 title: helpful reminders
 created: 2025-04-10
-modified: 2025-05-04
+modified: 2025-05-05
 publish: true
 draft: false
 ---
@@ -14,38 +14,43 @@ this list started initially in my own journal, then it became a photo on my phon
 
 i encourage you to read through this, and perhaps save it for a hard day.  if you feel inclined, journal about some of the things i have talked about, and make your own list of reminders!  the more personal to you, the more effective they will be
 
-! disclaimer ! this is all very cheesy but its helpful to me
+> [!disclaimer] disclaimer!
+> this is all very cheesy but its helpful to me.  remember, all of this stems from a list of *personal* reminders, designed around things that *i* struggle with.  if the advice isn't for you, that's okay
 
 ## 1.  i am learning and moving forward.  a bad day, or string of bad days, does not mean i have ended back at square one.
-- every day is progress if i choose it to be
-- make the choice to let yourself rest, and learn from the bad days
-- take the opportunity to experiment more with ways to feel better
+
+sometimes, it can be hard to remember all the work we have done up until now, and we focus on all the failures we have experienced.  i would counter that we learn can choose to learn from those failures, and thus choose to turn every day into progress.
+
+instead, i try to make the active choice to rest, because the odds are i need it. i also make the choice to take some of that restful time and evaluate those emotions.  maybe i have been pushing myself too hard for a few days, maybe i am going through a big life event.  if i think about those emotions, and pin point what is going on, i can more easily reframe the bad days as a learning moment.
+
+when all else fails, i take the opportunity to try something new, and learn from that!  if i read a book, take a bath, or go for a walk: does that make me feel a bit better? if so, i try to remember those things for the next bad day.
 
 ## 2. i not only need, but deserve to rest.  i do not need to earn self care.
-- defining self care is hard
-	- gift to future self
-- it is not weakness
+
+defining self care is hard, but an explanation that has been helpful for me is that self care is taking care of future you, not necessarily what feels good in the moment.  sometimes these ideas align, like taking a hot shower or eating a meal.  sometimes, self care tasks can suck like doing the laundry or taking care of that thing you have been procrastinating for a long time.
+
+try asking yourself, "will i be thankful i did this tomorrow?" usually, i am pretty thankful that i have watched that new show i was meaning to or took a nice bath.  but often, i am more thankful if my clothes are clean and put away, my hair is clean, and my important tasks are completed. 
+
+most importantly, self care is not a gift, it is a duty and a right.  you both deserve and owe it to yourself to meet your needs and to try your hardest.  i'm not saying its not hard, but you should care for yourself, and you need to care for yourself.  care is not a reward that must be earned.  
 
 ## 3. sometimes anxiety lies to you.  recognize assumptions, mind reading, and worst case scenarios and fight to reframe them.
-- take your power back from anxiety
-- talking with a friend is helpful
-- don't beat yourself up, just acknowledge it
-	- radical acceptance
+
+sometimes is actually quite generous, its most of the time.  there is a part of anxiety that is evolutionary, it keeps us safe.  however, for anyone like me who struggles with anxiety, that safety turns into an addiction to comfortability accompanied by a sick urge to believe every possible doomsday scenario and trust every assumption.
+
+recognizing this, is where i get to take my power back.  when i catch myself believing something that isn't true, i recognize it and try to reframe it.  it's important to recognize our feelings and value them, but sometimes what i'm thinking is simply a lie created by my anxiety.
 
 ## 4. reach out and ask for help.  if you are thinking a loved one might be able to help, ask them! 
-- don't let doubt get in your way
-- need to trust that you are loved
-- think about how you would respond if they came to you with the same issue
-	- if you expect a poor reaction, think about that? are you not being kind enough? or are you doing something to hurt them?
-		- not accepting of normal behavior
-		- or is the behavior bad
+
+obvious and expected, but a crucial part of feeling better!  we are social animals, and we need connection.  it's easy to let doubt get in your way and believe that for some reason you can't reach out, but you can.  usually if i find the idea of "what if i reach out to x" popping up in my head, i find it's best to just do it
+
+if you're still struggling, i find it helpful to think about how you would respond if that same person came to you with the same issue. there are a few ways this process can go, but usually by the end i can figure out the failure in my anxious logic.  if i would provide a positive response, usually i can trust the same from that person.  if i provide a negative response, i consider if i am maybe being unkind or operating from a biased point of view
+if you would provide a positive response:
 
 ## 5. my feelings are real and valid.
-- hard sometimes when you have a black sheep mentality
-	- enneagram 4
-- no one got an extra certificate
-- you deserve space
 
+i tend to have a bit of a black sheep mentality sometimes.  maybe its because i am a [[enneagram]] 4 or just because i have always felt a little different than some of my peers.  either way, i have recognized that i struggle to respect and validate my own feelings.
+
+an extra reminder helps that no one got an extra certificate when we were born, we are all just living life for the first time.  we all deserve to take up space, make our own decisions, and feel the way we feel.  
 ## 6. i have the power to make changes in my life
 - if there is something you can do to stop it, do it!
 - no one else will, but you get to!
