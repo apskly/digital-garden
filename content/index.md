@@ -2,6 +2,7 @@
 title: welcome to al's digital space
 created: 2025-04-28
 publish: true
+tags: []
 ---
 hi! my name is allie, and this is my [[starting a digital garden|digital garden]]
 

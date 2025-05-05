@@ -3,7 +3,7 @@ import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { byDateAndAlphabetical } from "./PageList"
 import style from "./styles/recentNotes.scss"
-import { Date, getDate } from "./Date"
+import { _getDateCustom, Date, getDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
@@ -17,12 +17,33 @@ interface Options {
   sort: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
 
+export function byModDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
+  return (f1, f2) => {
+    // Sort by date/alphabetical
+    if (f1.dates && f2.dates) {
+      // sort descending
+      return _getDateCustom(cfg, f2, "modified")!.getTime() - _getDateCustom(cfg, f1, "modified")!.getTime()
+    } else if (f1.dates && !f2.dates) {
+      // prioritize files with dates
+      return -1
+    } else if (!f1.dates && f2.dates) {
+      return 1
+    }
+
+    // otherwise, sort lexographically by title
+    const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
+    const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
+    return f1Title.localeCompare(f2Title)
+  }
+}
+
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
+  title: "recently",
   limit: 3,
   linkToMore: false,
-  showTags: true,
+  showTags: false,
   filter: () => true,
-  sort: byDateAndAlphabetical(cfg),
+  sort: byModDateAndAlphabetical(cfg),
 })
 
 export default ((userOpts?: Partial<Options>) => {
@@ -55,7 +76,7 @@ export default ((userOpts?: Partial<Options>) => {
                   </div>
                   {page.dates && (
                     <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                      <Date date={_getDateCustom(cfg, page, "modified")!} locale={cfg.locale} />
                     </p>
                   )}
                   {opts.showTags && (

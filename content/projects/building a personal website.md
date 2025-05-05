@@ -1,9 +1,9 @@
 ---
-title: building a personal website 
-created: 2025-05-01 
-modified: 2025-05-01 
-publish: false
-draft: true
+title: building a personal website
+created: 2025-05-01
+modified: 2025-05-01
+publish: true
+draft: false
 ---
 the following note is a rough reference for the construction and deployment of this website.  if you're not really interested in coding, maybe skip this part
 

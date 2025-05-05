@@ -38,11 +38,15 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    // Component.DesktopOnly(Component.RecentNotes())
     // Component.Links(),
   ],
   right: [
     Component.Graph(),
     Component.Backlinks(),
+  ],
+  afterBody: [
+    Component.DesktopOnly(Component.RecentNotes()),
   ],
 }
 

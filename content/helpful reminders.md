@@ -2,9 +2,11 @@
 title: helpful reminders
 created: 2025-04-10
 modified: 2025-05-04
-publish: false
-draft: true
+publish: true
+draft: false
 ---
+>[!info] unfinished
+> this note is currently unfinished, i intend to come back to it and work out more detailed info under each point
 
 recently, i had an exceptionally rough day in the midst of a pretty good week.  this hit me way harder than i could have anticipated, mainly because i felt blindsided during what i felt was a time of progress.  on that day, and since, i have found it helpful to have a short list of reminders for myself.  
 
