@@ -5,7 +5,7 @@ modified: 2025-05-05
 publish: true
 draft: false
 ---
->[!info] unfinished
+>[!warning] unfinished
 > this note is currently unfinished, i intend to come back to it and work out more detailed info under each point
 
 recently, i had an exceptionally rough day in the midst of a pretty good week.  this hit me way harder than i could have anticipated, mainly because i felt blindsided during what i felt was a time of progress.  on that day, and since, i have found it helpful to have a short list of reminders for myself.  
@@ -14,7 +14,7 @@ this list started initially in my own journal, then it became a photo on my phon
 
 i encourage you to read through this, and perhaps save it for a hard day.  if you feel inclined, journal about some of the things i have talked about, and make your own list of reminders!  the more personal to you, the more effective they will be
 
-> [!disclaimer] disclaimer!
+> [!warning] disclaimer!
 > this is all very cheesy but its helpful to me.  remember, all of this stems from a list of *personal* reminders, designed around things that *i* struggle with.  if the advice isn't for you, that's okay
 
 ## 1.  i am learning and moving forward.  a bad day, or string of bad days, does not mean i have ended back at square one.
