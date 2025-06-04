@@ -52,11 +52,13 @@ i tend to have a bit of a black sheep mentality sometimes.  maybe its because i 
 
 an extra reminder helps that no one got an extra certificate when we were born, we are all just living life for the first time.  we all deserve to take up space, make our own decisions, and feel the way we feel.  
 ## 6. i have the power to make changes in my life
-- if there is something you can do to stop it, do it!
-- no one else will, but you get to!
-- feel empowered not burdened
+
+simply put, the only person who can change your life is yourself.  want to stop being so judgy? you have to work to correct yourself and accept others.  want to be more active?  no one else can take a walk *for you*, so best to get up and move your legs!  changes in our personality or behaviors won't get done by someone else.
+
+instead of becoming defeated by this fact, i make the choice to feel empowered.  no one else can, but i get to take control when it comes to the person i become.  i know too well how the "waiting" feels.  waiting for the next event, next big change, next day, to finally put it all together for me and make my life feel whole.  its a comforting feeling, more comforting than others, but finally you realize how long you have been waiting, possibly years, and you begin to grow resentful of those who appear to have passed you by.  the truth is, there is no moment or time when you piece it all together.  instead, you have to choose to put the effort in and take control.  
 
 ## 7. emotions come and go, there will be good and bad days.  don't get so stuck in what happened before
+
 - you will feel happy again
 	- this feeling will end
 - you will feel this feeling again
