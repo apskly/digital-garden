@@ -39,7 +39,7 @@ const config: QuartzConfig = {
           textHighlight: "#ffa6c1",
         },
         darkMode: {
-          light: "#121c2b",             // dark bluish-gray background
+          light: "#22223b",             // dark bluish-gray background
           lightgray: "#2a3d55",         // soft border, low contrast
           gray: "#3c5b78",              // stronger border / graph link
           darkgray: "#b0cbe3",          // body text, light on dark

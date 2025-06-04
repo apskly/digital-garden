@@ -5,7 +5,7 @@ modified: 2025-04-28
 publish: true
 tags:
 ---
-hi! my name is allie, and this is my [[starting a digital garden|digital garden]]
+## hi! my name is allie, and this is my [[starting a digital garden|digital garden]]
 
 i wanted to create my own space on the internet to collect and showcase different things i have been thinking about, actively working on, or even links i find interesting
 

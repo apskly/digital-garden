@@ -38,16 +38,18 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    // Component.DesktopOnly(Component.RecentNotes())
+    Component.DesktopOnly(
+      Component.RecentNotes({ limit: 2, title: "recently", showTags: false })
+    )
     // Component.Links(),
   ],
   right: [
     Component.Graph(),
     Component.Backlinks(),
   ],
-  afterBody: [
-    Component.DesktopOnly(Component.RecentNotes()),
-  ],
+  // afterBody: [
+  //   Component.DesktopOnly(Component.RecentNotes()),
+  // ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

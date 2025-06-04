@@ -1,13 +1,10 @@
 ---
 title: helpful reminders
 created: 2025-04-10
-modified: 2025-05-05
+modified: 2025-06-03
 publish: true
 draft: false
 ---
->[!warning] unfinished
-> this note is currently unfinished, i intend to come back to it and work out more detailed info under each point
-
 recently, i had an exceptionally rough day in the midst of a pretty good week.  this hit me way harder than i could have anticipated, mainly because i felt blindsided during what i felt was a time of progress.  on that day, and since, i have found it helpful to have a short list of reminders for myself.  
 
 this list started initially in my own journal, then it became a photo on my phone i would look back on often.  now, i've decided that sharing these reminders could do some good for someone who might happen to read this. 
@@ -59,18 +56,17 @@ instead of becoming defeated by this fact, i make the choice to feel empowered. 
 
 ## 7. emotions come and go, there will be good and bad days.  don't get so stuck in what happened before
 
-- you will feel happy again
-	- this feeling will end
-- you will feel this feeling again
-	- you should not avoid it.  learn what it means and try to heal.  see point 6
-- many ways to split things up
-	- many days in a day
+i tend to get a little stuck in my emotions.  i have always been a sensitive person, and i truly believe it is a strength of mine, but sometimes my intense emotions struggle to fade.  it has been incredibly helpful to me to recognize my emotions, acknowledge them, and remind myself that no matter the feeling, it will pause.  
+
+this frame of mind helps me appreciate more positive emotions and give some grace to the more negative.  i also give myself the benefit of choice by being able to discern how i want to deal with the current *fleeting* emotion.  do i want to ignore it and wait for it to pass, or can i learn something?  the latter often leads to more development (see point 6), but sometimes distraction isn't so bad.
+
+> [!note]- still struggling?
+> another tip i have found helpful to separate my days into concrete stages if i feel particularly stuck.  i create timeframes to allow myself to deal with my emotions, without adding on unnecessary anxiety about what kind of setbacks this may cause.
+> 
+> sometimes, a mishap in the morning can make me feel like the whole day is ruined.  instead, i try to only let it impact my morning.  i find the next convenient time i can collect myself and take some time to meditate or go for a walk or do anything to make me feel like my frame of mind has change.  then, i can roll into my afternoon or evening with a fresh attitude.  particularly bad mornings, i take the whole morning off (if i can) and start fresh at noon.
 
 ## 8. you can do it.
-- sometimes you just need some support and help
-- make sure somebody believes in you
-	- do that by believing in yourself
-- if that doesn't work for you, i believe in you
-	- you're reading this
-	- you're thinking about it
-	- you have come this far
+
+often, the best reminder is some support and love.  it is crucial that somebody in this world, and the only real way you can ensure that is by continuing to believe in yourself.
+
+if that doesn't work, feel free to take all the arbitrary signs that i (or anyone else you may be interacting with) believe in you.  if you think about it: you took the time to read this, you're taking the time to think about this, and you have come this far!  all this evidence points to the fact that you are capable and committed to learning more about yourself and feeling better.  pretty impressive if you ask me!
