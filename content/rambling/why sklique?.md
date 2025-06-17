@@ -3,6 +3,7 @@ title: why sklique?
 created: 2025-04-29
 modified: 2025-04-29
 publish: true
+tags:
 ---
 so, some of my friends seeing this might be thinking, why sklique?  it's sort of a not-so-secret secret name of mine for around 10 years now.
 
