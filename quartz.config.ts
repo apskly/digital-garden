@@ -21,30 +21,30 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        title: "Libre Franklin",
-        header: "Tiempos",
-        body: "PT Serif",
+        title: "Corben",
+        header: "Encode Sans SC",
+        body: "Encode Sans",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#f5f5f5",
-          lightgray: "#1f5e91",
-          gray: "#3d81b8",
+          light: "#FFF5EB",
+          lightgray: "#E081A4",
+          gray: "#D883A6",
           darkgray: "#094e86",
-          dark: "#ff5d8f",
-          secondary: "#094e86",
-          tertiary: "#3d81b8",
+          dark: "#F68EB4",
+          secondary: "#3A7392",
+          tertiary: "#99C1D6",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#ffa6c1",
         },
         darkMode: {
-          light: "#22223b",             // dark bluish-gray background
-          lightgray: "#2a3d55",         // soft border, low contrast
-          gray: "#3c5b78",              // stronger border / graph link
-          darkgray: "#b0cbe3",          // body text, light on dark
-          dark: "#ff79a8",              // header text and icons (pink tone)
-          secondary: "#4aa8ff",         // link color, current graph node (vivid blue)
+          light: "#295166",             // dark bluish-gray background
+          lightgray: "#E081A4",         // soft border, low contrast
+          gray: "#D883A6",              // stronger border / graph link
+          darkgray: "#FFF5EB",          // body text, light on dark
+          dark: "#F68EB4",              // header text and icons (pink tone)
+          secondary: "#9DB4BF",         // link color, current graph node (vivid blue)
           tertiary: "#74bfff",          // hover and visited states (soft blue)
           highlight: "rgba(255, 182, 210, 0.1)", // internal link / code highlight bg
           textHighlight: "#ffd3e4",     // markdown highlight bg (light pink)

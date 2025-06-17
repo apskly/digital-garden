@@ -5,7 +5,6 @@ modified: 2025-04-29
 publish: true
 tags:
   - digital-gardening
-  - learning
 ---
 ## how i got here
 this is my small (now public!) adventure in digital gardening.  I wanted to try out the practice first without burning myself out trying to deploy a public system.

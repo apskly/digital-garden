@@ -2,6 +2,8 @@
 title: developing a digital garden
 created: 2025-03-23
 publish: true
+tags:
+  - digital-gardening
 ---
 ## tier system
 basic to digital gardening is a 3 tier system, indicating the steps from ideas from sources to completed products, whatever that may look like.  Maggie Appleton continues use of the botanical metaphor with:
